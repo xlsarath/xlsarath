@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
   <a href="https://www.linkedin.com/in/sarathmakkena/">
   <img align="left" alt="Sarath's LinkedIN" width="18px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" />
+  <br/>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
