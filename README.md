@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/xlsarath/xlsarath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlsarath&hide=Jupyter Notebook,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlsarath&hide=Jupyter Notebook,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/xlsarath/xlsarath">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xlsarath&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarath's GitHub Stats" />
