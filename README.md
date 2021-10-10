@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 -
- <h3>connect with me @ </h3> <a  href="https://www.linkedin.com/in/sarathmakkena/">
-  <img align="left" alt="Sarath's LinkedIN" width="18px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" />
+<a  href="https://www.linkedin.com/in/sarathmakkena/"> <img align="left" alt="Sarath's LinkedIN" width="18px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" >connect with me</a>
   <br/>
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
