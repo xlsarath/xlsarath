@@ -1,31 +1,33 @@
-### Hi there <img src="https://github.com/xlsarath/xlsarath/blob/master/wave.gif" width="30px">
+<h3>Hi there <img src="https://github.com/xlsarath/xlsarath/blob/master/wave.gif" width="30px"></h3>
 
 <!--
 **xlsarath/xlsarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 'DS/Algos'
-- 🌱 I’m currently learning 'React'
-<!-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- <a  href="https://www.linkedin.com/in/sarathmakkena/"> <img align="left" alt="Sarath's LinkedIN" width="22px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" >connect with me</a>
-  <br/>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## &#x1f4c8; GitHub Stats
+<p>I'm <strong>Sarath Makkena</strong> — a full-stack engineer with a passion for turning ideas into scalable software and intelligent systems.</p>
 
-<a href="https://github.com/xlsarath/xlsarath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlsarath&hide=Jupyter Notebook,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a ![Sarath's GitHub stats] href="https://github.com/xlsarath/xlsarath">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xlsarath&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt=" Sarath's GitHub Stats" />
-</a>
+<ul>
+  <li>💼 <strong>Domains</strong>: Healthcare, Banking, Finance, Trade, and Electronics Research</li>
+  <li>🎓 <strong>Education</strong>: B.E. in Electronics & Communication · M.S. in Computer Engineering (Data Science) · MBA in progress</li>
+  <li>⚙️ <strong>Core Tech</strong>: Java (Spring Boot), Python, Kafka, AWS Fargate, Kubernetes, PostgreSQL, Elasticsearch, HL7, React</li>
+  <li>🧠 <strong>AI/ML Projects</strong>: Recommender Systems · NLP Pipelines · Transformer-based Models · Pandas + Scikit-learn tools </li>
+  <li>📂 <strong>Projects</strong>: Explore my GitHub for work on microservices, REST APIs, devops automation, generative pipelines, and more</li>
+</ul>
 
+<p>I love bridging the gap between engineering precision and AI-driven innovation. Whether it's scaling a backend service or training a model to uncover insights — I'm always up for the challenge.</p>
 
+<p>
+  <a href="https://www.linkedin.com/in/sarathmakkena/">
+    <img align="left" alt="Sarath's LinkedIn" width="22px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" />
+    Connect with me
+  </a>
+</p>
+<br/>
 
+<h4>🚀 What's Coming Up</h4>
+<ul>
+  <li>🧬 Building with <strong>Generative AI</strong> and <strong>LLMs</strong></li>
+  <li>🧠 Exploring <strong>LangChain</strong> and RAG architectures</li>
+  <li>🌀 Experimenting with <strong>GANs</strong> for visual synthesis</li>
+  <li>👁️ Getting hands-on with <strong>Computer Vision</strong> pipelines</li>
+</ul>
