@@ -1,23 +1,25 @@
 ### Sarath Makkena
 
-Staff Software Engineer at [Personalis](https://www.personalis.com) (cancer genomics). I build ML platforms and LLM infrastructure, and the event-driven systems they run on.
+Staff Software Engineer at [Personalis](https://www.personalis.com) (cancer genomics). I build ML platforms and LLM infrastructure, and the distributed systems they run on. *Learn deeply, build with care.*
 
-**What I work on**
+**Recent impact**
 
-- **ML platform:** GPU model serving with vLLM on Kubernetes, LoRA fine-tuning of vision-language models, adapter registries with lineage, hot-swap and instant rollback, and evaluation with real statistics.
-- **Streaming and CDC:** Kafka / Amazon MSK, Debezium change data capture on Kafka Connect, idempotent consumers, transactional outboxes, versioned state machines, zero-downtime cutovers.
-- **Observability:** Prometheus, Grafana, Loki + Promtail, PromQL/LogQL alerting, Micrometer, Kafka consumer-lag monitoring, Datadog.
+- **Document AI:** LoRA fine-tuning of a vision-language model inside a private VPC lifted held-out field accuracy from 86% to 94% with fewer invented values. Insurance cards, order forms and pathology reports parse end to end in ~37 s, with page evidence for every field.
+- **LLM platform:** PHI-safe vLLM serving on Kubernetes GPUs behind an OpenAI-compatible gateway, with encrypted weights, audit trails, scale-to-zero GPUs, an adapter registry with lineage and ~35 s rollback with zero failed requests.
+- **Platform at scale:** technical lead for a clinical ordering, billing and reporting platform through 3× order growth in a year; top contributor to its core services (~3,300 commits across 20 repositories).
+- **Distributed systems:** Kafka / Amazon MSK pipelines, change data capture, transactional outboxes, idempotent consumers with dead-letter replay, and a versioned state machine for clinical report release.
+- **Observability:** Prometheus, Grafana, Loki, PromQL/LogQL alerting and Kafka consumer-lag monitoring.
 - **Healthcare interoperability:** HL7 v2, FHIR, health-information exchange, OAuth 2.0 / OIDC, audit trails.
 
-**Stack:** Java 25 · Python · Go · Spring Boot · Kafka · OpenSearch · PostgreSQL · vLLM · LiteLLM · PyTorch / PEFT · AWS (EKS GPU, S3, KMS) · Kubernetes
+**Stack:** Java 25 · Spring Boot · Python · React · Kafka · PostgreSQL · OpenSearch · vLLM · LiteLLM · PyTorch / PEFT · AWS (EKS GPU, S3, KMS) · Kubernetes
 
-**Start here**
+Most of my production work lives in private, regulated codebases. The public repos below are smaller projects that show the same ideas.
 
 | Project | What it shows |
 |---|---|
-| [lightweight-fine-tuning](https://github.com/xlsarath/lightweight-fine-tuning) | GPT-2 → news classifier by training 0.24% of weights with LoRA/QLoRA, with a full metric comparison |
-| [STEDI-Application-kafka-spark-Redis-](https://github.com/xlsarath/STEDI-Application-kafka-spark-Redis-) | Real-time analytics pipeline: Kafka, Spark Streaming, Faust, Redis |
-| [ChicagoTransitAuthority-Kafka](https://github.com/xlsarath/ChicagoTransitAuthority-Kafka) | Transit-event streaming with Kafka producers, Kafka Connect and REST Proxy |
+| [lightweight-fine-tuning](https://github.com/xlsarath/lightweight-fine-tuning) | LoRA/QLoRA on GPT-2 for news classification: 62.5% zero-shot → 89.4% accuracy while training 0.24% of the weights |
+| [STEDI-Application-kafka-spark-Redis-](https://github.com/xlsarath/STEDI-Application-kafka-spark-Redis-) | Real-time analytics pipeline: Kafka, Spark Structured Streaming and Redis |
+| [ChicagoTransitAuthority-Kafka](https://github.com/xlsarath/ChicagoTransitAuthority-Kafka) | Transit-event streaming with Kafka producers, Kafka Connect, REST Proxy, KSQL and Faust |
 
 **Publications:** [Enhanced Predictive Modeling of Cricket Game Duration Using Multiple Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9310081), IEEE ICDSE 2020
 
