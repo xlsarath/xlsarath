@@ -1,33 +1,24 @@
-<h3>Hi there <img src="https://github.com/xlsarath/xlsarath/blob/master/wave.gif" width="30px"></h3>
+### Sarath Makkena
 
-<!--
-**xlsarath/xlsarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Staff Software Engineer at [Personalis](https://www.personalis.com) (cancer genomics). I build ML platforms and LLM infrastructure, and the event-driven systems they run on.
 
-<p>I'm <strong>Sarath Makkena</strong> — a full-stack engineer with a passion for turning ideas into scalable software and intelligent systems.</p>
+**What I work on**
 
-<ul>
-  <li>💼 <strong>Domains</strong>: Healthcare, Banking, Finance, Trade, and Electronics Research</li>
-  <li>🎓 <strong>Education</strong>: B.E. in Electronics & Communication · M.S. in Computer Engineering (Data Science) · MBA in progress</li>
-  <li>⚙️ <strong>Core Tech</strong>: Java (Spring Boot), Python, Kafka, AWS Fargate, Kubernetes, PostgreSQL, Elasticsearch, HL7, React</li>
-  <li>🧠 <strong>AI/ML Projects</strong>: Recommender Systems · NLP Pipelines · Transformer-based Models · Pandas + Scikit-learn tools </li>
-  <li>📂 <strong>Projects</strong>: Explore my GitHub for work on microservices, REST APIs, devops automation, generative pipelines, and more</li>
-</ul>
+- **ML platform:** GPU model serving with vLLM on Kubernetes, LoRA fine-tuning of vision-language models, adapter registries with lineage, hot-swap and instant rollback, and evaluation with real statistics.
+- **Streaming and CDC:** Kafka / Amazon MSK, Debezium change data capture on Kafka Connect, idempotent consumers, transactional outboxes, versioned state machines, zero-downtime cutovers.
+- **Observability:** Prometheus, Grafana, Loki + Promtail, PromQL/LogQL alerting, Micrometer, Kafka consumer-lag monitoring, Datadog.
+- **Healthcare interoperability:** HL7 v2, FHIR, health-information exchange, OAuth 2.0 / OIDC, audit trails.
 
-<p>I love bridging the gap between engineering precision and AI-driven innovation. Whether it's scaling a backend service or training a model to uncover insights — I'm always up for the challenge.</p>
+**Stack:** Java 25 · Python · Go · Spring Boot · Kafka · OpenSearch · PostgreSQL · vLLM · LiteLLM · PyTorch / PEFT · AWS (EKS GPU, S3, KMS) · Kubernetes
 
-<p>
-  <a href="https://www.linkedin.com/in/sarathmakkena/">
-    <img align="left" alt="Sarath's LinkedIn" width="22px" src="https://github.com/xlsarath/xlsarath/blob/master/linkedin.svg" />
-    Connect with me
-  </a>
-</p>
-<br/>
+**Start here**
 
-<h4>🚀 What's Coming Up</h4>
-<ul>
-  <li>🧬 Building with <strong>Generative AI</strong> and <strong>LLMs</strong></li>
-  <li>🧠 Exploring <strong>LangChain</strong> and RAG architectures</li>
-  <li>🌀 Experimenting with <strong>GANs</strong> for visual synthesis</li>
-  <li>👁️ Getting hands-on with <strong>Computer Vision</strong> pipelines</li>
-</ul>
+| Project | What it shows |
+|---|---|
+| [lightweight-fine-tuning](https://github.com/xlsarath/lightweight-fine-tuning) | GPT-2 → news classifier by training 0.24% of weights with LoRA/QLoRA, with a full metric comparison |
+| [STEDI-Application-kafka-spark-Redis-](https://github.com/xlsarath/STEDI-Application-kafka-spark-Redis-) | Real-time analytics pipeline: Kafka, Spark Streaming, Faust, Redis |
+| [ChicagoTransitAuthority-Kafka](https://github.com/xlsarath/ChicagoTransitAuthority-Kafka) | Transit-event streaming with Kafka producers, Kafka Connect and REST Proxy |
+
+**Publications:** [Enhanced Predictive Modeling of Cricket Game Duration Using Multiple Machine Learning Algorithms](https://ieeexplore.ieee.org/document/9310081), IEEE ICDSE 2020
+
+[LinkedIn](https://www.linkedin.com/in/sarathmakkena/) · xlsarathchandra@gmail.com
