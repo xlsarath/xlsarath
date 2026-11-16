@@ -1,11 +1,11 @@
 ### Sarath Makkena
 
-Staff Software Engineer at [Personalis](https://www.personalis.com) (cancer genomics). I build ML platforms and LLM infrastructure, and the distributed systems they run on. *Learn deeply, build with care.*
+Staff Software Engineer at [Personalis](https://www.personalis.com) (cancer genomics). I build distributed systems and platforms, and the LLM systems that run on them. *Learn deeply, build with care.*
 
 **Recent impact**
 
 - **Document AI:** LoRA fine-tuning of a vision-language model inside a private VPC lifted held-out field accuracy from 86% to 94% with fewer invented values. Insurance cards, order forms and pathology reports parse end to end in ~37 s, with page evidence for every field.
-- **LLM platform:** PHI-safe vLLM serving on Kubernetes GPUs behind an OpenAI-compatible gateway, with encrypted weights, audit trails, scale-to-zero GPUs, an adapter registry with lineage and ~35 s rollback with zero failed requests.
+- **LLM platform (pilot):** PHI-safe vLLM serving on Kubernetes GPUs behind an OpenAI-compatible gateway, with encrypted weights, audit trails, scale-to-zero GPUs, an adapter registry with lineage and ~35 s rollback with zero failed requests.
 - **Platform at scale:** technical lead for a clinical ordering, billing and reporting platform through 3× order growth in a year; top contributor to its core services (~3,300 commits across 20 repositories).
 - **Distributed systems:** Kafka / Amazon MSK pipelines, change data capture, transactional outboxes, idempotent consumers with dead-letter replay, and a versioned state machine for clinical report release.
 - **Observability:** Prometheus, Grafana, Loki, PromQL/LogQL alerting and Kafka consumer-lag monitoring.
