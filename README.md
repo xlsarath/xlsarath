@@ -17,6 +17,9 @@ Most of my production work lives in private, regulated codebases. The public rep
 
 | Project | What it shows |
 |---|---|
+| [mllp-sim](https://github.com/xlsarath/mllp-sim) | Scriptable HL7 v2 MLLP test server and client: rule-based ACK/NAK, chaos testing, follow-up messages, CI-friendly exit codes. Docker image on GHCR |
+| [lora-switchboard](https://github.com/xlsarath/lora-switchboard) | Safe LoRA rollouts for vLLM: versioned adapters, smoke-tested deploys, alias routing, millisecond rollback with zero failed requests |
+| [superduperdrive](https://github.com/xlsarath/superduperdrive) | Quantum-ready cloud drive: hybrid ML-KEM-768 + X25519 encryption, ML-DSA-65 signatures, Argon2id (Spring Boot 3, Bouncy Castle) |
 | [lightweight-fine-tuning](https://github.com/xlsarath/lightweight-fine-tuning) | LoRA/QLoRA on GPT-2 for news classification: 62.5% zero-shot → 89.4% accuracy while training 0.24% of the weights |
 | [STEDI-Application-kafka-spark-Redis-](https://github.com/xlsarath/STEDI-Application-kafka-spark-Redis-) | Real-time analytics pipeline: Kafka, Spark Structured Streaming and Redis |
 | [ChicagoTransitAuthority-Kafka](https://github.com/xlsarath/ChicagoTransitAuthority-Kafka) | Transit-event streaming with Kafka producers, Kafka Connect, REST Proxy, KSQL and Faust |
